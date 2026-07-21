@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Linh リン</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
+<p align="center">
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Cat coding" width="250"/>
+</p>
+
 - 🔭 I’m currently working on **video games**
 
 - 🌱 I’m currently learning **PHP**
